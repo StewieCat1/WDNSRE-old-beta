@@ -608,7 +608,7 @@ Buildings :
 	-unlocks resetUnlock
 	-unlocks destroyFinalWall
 	*destroyFinalWall
-	-"<i>This wall is quite different from the previous ones… Could it be the last one?</i><br> <br>Destroy the 5th and final wall.<br>Gives <b>50,000,000</b> bricks.<br>Awards <b>25,000,000,000,000,000,000</b> cash; <b>1</b> boss brick.<br>Worth <b>5</b> cosmic knowledge."
+	-"<i>This wall is quite different from the previous onesÂ… Could it be the last one?</i><br> <br>Destroy the 5th and final wall.<br>Gives <b>50,000,000</b> bricks.<br>Awards <b>25,000,000,000,000,000,000</b> cash; <b>1</b> boss brick.<br>Worth <b>5</b> cosmic knowledge."
 	-costs 1e20 totalMoney
 	-gives 2.5e19 money when bought
 	-gives 50000000 bricks when bought
@@ -767,7 +767,7 @@ Buildings :
 	-gives 1 wallRequirement when bought
 	-unlocks destroyBonusWall11
 	*destroyBonusWall11
-	-"<i>Okay, of course the bonus walls weren't the last ones. Now, these next ones think they will stop us from taking them down just by taking this to space… I don't think so!</i><br> <br>Destroy space wall #9 and move on to the next one.<br>Gives <b>200 billion</b> bricks and <b>100 sextillion</b> cash.<br>Gives <b>10</b> space bricks and unlocks <b>space research</b>.<br> <br>Note: space bricks cannot be kept through resets.<br>Worth <b>25</b> cosmic knowledge."
+	-"<i>Okay, of course the bonus walls weren't the last ones. Now, these next ones think they will stop us from taking them down just by taking this to spaceÂ… I don't think so!</i><br> <br>Destroy space wall #9 and move on to the next one.<br>Gives <b>200 billion</b> bricks and <b>100 sextillion</b> cash.<br>Gives <b>10</b> space bricks and unlocks <b>space research</b>.<br> <br>Note: space bricks cannot be kept through resets.<br>Worth <b>25</b> cosmic knowledge."
 	-costs 4e23 totalMoney
 	-gives 200000000000 bricks when bought
 	-gives 200000000000 totalBricks when bought
@@ -1471,7 +1471,7 @@ Buildings :
 	-gives 1 wallRequirement when bought
 	-unlocks destroyBonusWall55
 	*destroyBonusWall55
-	-"<i>Whoa… This is it. THIS IS WHERE IT ENDS.</i><br> <br>Destroy the Wall Source.<br>Gives <b>62.5 nonillion</b> bricks and <b>31.25 tredecillion</b> cash.<br>Gives <b>8</b> Force Field Bricks and <b>6,000</b> time bricks.<br>Worth <b>50,000,000</b> cosmic knowledge.<br><b>Unlocks any eternal time upgrades that were not already unlocked.</b>"
+	-"<i>WhoaÂ… This is it. THIS IS WHERE IT ENDS.</i><br> <br>Destroy the Wall Source.<br>Gives <b>62.5 nonillion</b> bricks and <b>31.25 tredecillion</b> cash.<br>Gives <b>8</b> Force Field Bricks and <b>6,000</b> time bricks.<br>Worth <b>50,000,000</b> cosmic knowledge.<br><b>Unlocks any eternal time upgrades that were not already unlocked.</b>"
 	-costs 1.25e44 totalMoney
 	-gives 6.25e31 bricks when bought
 	-gives 6.25e31 totalBricks when bought
@@ -1496,7 +1496,7 @@ Buildings :
 	-gives 1 wallRequirement when bought
 	-unlocks destroyBonusWall56
 	*destroyBonusWall56
-	-"<i>(A note) Well, well… Congratulations!<br>I did not expect you mortals to amass enough power to best even the End Wall, but here you are after all this time. Now obviously I'm not going to give you any answers or make an appearance myself because that would ruin the mystery. However I know you'd like the game to continue, so I set up a little something to go after like the genre-savvy guy I am. Carry on, now!<br>~The King</i><br> <br>Destroy the Infi-Wall.<br>Gives <b>200 nonillion</b> bricks and <b>100 tredecillion</b> cash.<br>Gives <b>3,000</b> space bricks, <b>1,500</b> time bricks, <b>5</b> End bricks, <b>4</b> Finality bricks, <b>3</b> Door bricks, and <b>2</b> Force Field bricks.<br>Worth <b>200,000,000</b> cosmic knowledge.<br><b>Rewards increase each time the Infi-Wall is destroyed</b>"
+	-"<i>(A note) Well, wellÂ… Congratulations!<br>I did not expect you mortals to amass enough power to best even the End Wall, but here you are after all this time. Now obviously I'm not going to give you any answers or make an appearance myself because that would ruin the mystery. However I know you'd like the game to continue, so I set up a little something to go after like the genre-savvy guy I am. Carry on, now!<br>~The King</i><br> <br>Destroy the Infi-Wall.<br>Gives <b>200 nonillion</b> bricks and <b>100 tredecillion</b> cash.<br>Gives <b>3,000</b> space bricks, <b>1,500</b> time bricks, <b>5</b> End bricks, <b>4</b> Finality bricks, <b>3</b> Door bricks, and <b>2</b> Force Field bricks.<br>Worth <b>200,000,000</b> cosmic knowledge.<br><b>Rewards increase each time the Infi-Wall is destroyed</b>"
 	-costs 4e44 totalMoney
 	-gives 1e32 bricks when bought
 	-gives 1e32 totalBricks when bought
@@ -5659,7 +5659,7 @@ Upgrades :
  	-named The Finality Swords
 	-picture : http://i.imgur.com/iPTUQJx.png
 	*swordsmanUpgrade12
-	-"Swordsmen do <b>six times</b> as much damage.<br><i>"The Blade was Lord Reaefsek's favorite weapon. It was his first magical artifact, and he kept upgrading it to the point where it's just ridiculously powerful." ~Agent Taylor<br>"The name's pretty cliché though." ~Agent Johnson</i>"
+	-"Swordsmen do <b>six times</b> as much damage.<br><i>"The Blade was Lord Reaefsek's favorite weapon. It was his first magical artifact, and he kept upgrading it to the point where it's just ridiculously powerful." ~Agent Taylor<br>"The name's pretty clichÃ© though." ~Agent Johnson</i>"
  	-costs 8.8e32 money
 	-unlocks at 700 swordsman
 	-multiplies efficiency of swordsman by 600%
@@ -8806,27 +8806,27 @@ Upgrades :
 	-named Tellurium Trophy
 	-picture : http://i.imgur.com/hfmclY6.png
  	*trophyBlackHole
-	-"Everything is <b>7%</b> more efficient <b>per 1,000,000,000 future knowledge capsules.</b><br><i>These next trophies have negative numbers because they are bonus trophies.</i><br> <br>Next trophy: <b>100,000,000,000</b> capsules"
+	-"Everything is <b>6%</b> more efficient <b>per 1,000,000,000 future knowledge capsules.</b><br><i>These next trophies have negative numbers because they are bonus trophies.</i><br> <br>Next trophy: <b>100,000,000,000</b> capsules"
 	-costs 7.777777777777777e50 money, 7.777777777777777e39 bricks, 7.777777777777777e37 fourthWallMatter
 	-unlocks at 50000000000 prestige, 1 timesReallyActuallyWon
 	-unlocks thropyAchieve8
-	-multiplies efficiency of brickFactory by 0.000000007% per prestige
-	-multiplies efficiency of makeBricks by 0.000000007% per prestige
-	-multiplies efficiency of makeBricks2 by 0.000000007% per prestige
-	-multiplies efficiency of hitWall by 0.000000007% per prestige
-	-multiplies efficiency of puncher by 0.000000007% per prestige
-	-multiplies efficiency of clubber by 0.000000007% per prestige
-	-multiplies efficiency of swordsman by 0.000000007% per prestige
-	-multiplies efficiency of gunner by 0.000000007% per prestige
-	-multiplies efficiency of grenade by 0.000000007% per prestige
-	-multiplies efficiency of wreckingBall by 0.000000007% per prestige
-	-multiplies efficiency of bulldozer by 0.000000007% per prestige
-	-multiplies efficiency of airstrike by 0.000000007% per prestige
-	-multiplies efficiency of necromancer by 0.000000007% per prestige
-	-multiplies efficiency of giant by 0.000000007% per prestige
-	-multiplies efficiency of demon by 0.000000007% per prestige
-	-multiplies efficiency of compromiser by 0.000000007% per prestige
-	-multiplies efficiency of lastBuilding by 0.000000007% per prestige
+	-multiplies efficiency of brickFactory by 0.000000006% per prestige
+	-multiplies efficiency of makeBricks by 0.000000006% per prestige
+	-multiplies efficiency of makeBricks2 by 0.000000006% per prestige
+	-multiplies efficiency of hitWall by 0.000000006% per prestige
+	-multiplies efficiency of puncher by 0.000000006% per prestige
+	-multiplies efficiency of clubber by 0.000000006% per prestige
+	-multiplies efficiency of swordsman by 0.000000006% per prestige
+	-multiplies efficiency of gunner by 0.000000006% per prestige
+	-multiplies efficiency of grenade by 0.000000006% per prestige
+	-multiplies efficiency of wreckingBall by 0.000000006% per prestige
+	-multiplies efficiency of bulldozer by 0.000000006% per prestige
+	-multiplies efficiency of airstrike by 0.000000006% per prestige
+	-multiplies efficiency of necromancer by 0.000000006% per prestige
+	-multiplies efficiency of giant by 0.000000006% per prestige
+	-multiplies efficiency of demon by 0.000000006% per prestige
+	-multiplies efficiency of compromiser by 0.000000006% per prestige
+	-multiplies efficiency of lastBuilding by 0.000000006% per prestige
 	-named Black Hole-Tier Trophy
 	-picture : https://i.imgur.com/E7CFaZS.png
 
