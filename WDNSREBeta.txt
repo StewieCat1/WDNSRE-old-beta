@@ -2170,25 +2170,31 @@ Upgrades :
 	-named Freedom From Reality
 	-picture : http://i.imgur.com/ctiz8NH.png
 	*spaceUpgrade15
+	-"Titans do <b>0.2%</b> more damage <b>per heavy duty building</b>.<br><i>Now the titans can smash the wall with much more force thanks to deep space knowledge.</i>"
+	-costs 150 spaceBricks
+	-multiplies efficiency of giant by 0.2% per heavyBuilding
+	-named Superheavy Titans
+	-picture : https://i.imgur.com/UPHs4zc.png
+	*spaceUpgrade16
 	-"Brick factories and manual brick creation are <b>25%</b> more efficient <b>per boss brick</b>.<br><i>Of course the boss bricks are worth a ton of normal bricks. And of course it takes deep space understanding to know how to draw out that worth. This is just how these things work.</i>"
-	-costs 250 spaceBricks
+	-costs 200 spaceBricks
 	-multiplies efficiency of brickFactory by 25% per goldBricks
 	-multiplies efficiency of makeBricks by 25% per goldBricks
 	-named Boss Power
 	-picture : http://i.imgur.com/9mZst2L.png
-	*spaceUpgrade16
+	*spaceUpgrade17
 	-"Hand punches do <b>0.02%</b> more damage <b>per melee building</b>.<br><i>"Ladies and gentlemen, we are gathered here today because we have finally done it. It took the ability to manipulate reality, space and time, but we have finally combined the club knuckles with the sword knuckles." ~RUC CEO at the grand SCK presentation.</i>"
-	-costs 250 spaceBricks
+	-costs 200 spaceBricks
 	-multiplies efficiency of hitWall by 0.02% per meleeBuilding
 	-named Sword Club Knuckles
 	-picture : http://i.imgur.com/Wf0lExe.png
-	*spaceUpgrade17
+	*spaceUpgrade18
 	-"Black obliterators do <b>twice</b> as much damage.<br><i>With our new deep knowledge of space, we can understand a bit better just how many craps The Black gives. The answer: literally none. It has even been theorized that The Black could give negative craps.</i>"
-	-costs 250 spaceBricks
+	-costs 200 spaceBricks
 	-multiplies efficiency of lastBuilding by 200%
 	-named Improved Handling
 	-picture : http://i.imgur.com/ascYTTw.png
-	*spaceUpgrade18
+	*spaceUpgrade19
 	-"Everything is <b>0.004%</b> more efficient <b>per building owned</b>.<br><i>Yeah, there are totally alternate realities. The code for them is very complex, but luckily deep space knowledge gets us just far enough to be able to steal force and density from them.</i>"
 	-costs 600 spaceBricks
 	-multiplies efficiency of hitWall by 0.004% per building
@@ -2222,50 +2228,57 @@ Upgrades :
 	-unlocks spaceUpgrade24
 	-unlocks spaceUpgrade25
 	-picture : http://i.imgur.com/ofjVwCC.png
-	*spaceUpgrade19
+	*spaceUpgrade20
 	-"Melee buildings do <b>0.4%</b> more damage <b>per titan</b>.<br><i>Using loads of space bricks, we can make people as strong as titans without sapping the titan's strength.</i>
-	-costs 2000 spaceBricks
+	-costs 1500 spaceBricks
 	-multiplies efficiency of puncher by 0.4% per giant
 	-multiplies efficiency of clubber by 0.4% per giant
 	-multiplies efficiency of swordsman by 0.4% per giant
 	-named Strength Duplication
 	-picture : http://i.imgur.com/5gGAuHH.png
-	*spaceUpgrade20
+	*spaceUpgrade21
+	-"Ranged buildings do <b>0.5%</b> more damage <b>per airstrike caller</b>.<br><i>Now when something is shot at the wall, many more duplicates of the projectile fall onto the wall.</i>
+	-costs 1500 spaceBricks
+	-multiplies efficiency of puncher by 0.5% per airstrike
+	-multiplies efficiency of clubber by 0.5% per airstrike
+	-multiplies efficiency of swordsman by 0.5% per airstrike
+	-named Projectile Rain
+	-picture : https://i.imgur.com/MEOJHKV.png
+	*spaceUpgrade22
 	-"Bulldozers and airstrike callers do <b>0.6%</b> more damage <b>per dream building</b>.<br><i>By using the compromisers and the power of The Black, we can make the engines infinitely powerful.</i>
-	-costs 2000 spaceBricks
+	-costs 1500 spaceBricks
 	-multiplies efficiency of bulldozer by 0.6% per dreamBuilding
 	-multiplies efficiency of airstrike by 0.6% per dreamBuilding
 	-named Infinity Engines
 	-picture : http://i.imgur.com/PmSOCZb.png
-	*spaceUpgrade21
-	-"Magic buildings do <b>0.6%</b> more damage <b>per Black Obliterator</b>.<br><i>Using The Black in magical spells will make them much more powerful.</i>
+	*spaceUpgrade23
+	-"Necromancers and demons do <b>0.6%</b> more damage <b>per Black Obliterator</b>.<br><i>Using The Black in magical spells will make them much more powerful.</i>
 	-costs 3000 spaceBricks
 	-multiplies efficiency of necromancer by 0.6% per lastBuilding
-	-multiplies efficiency of giant by 0.6% per lastBuilding
 	-multiplies efficiency of demon by 0.6% per lastBuilding
 	-named Black Magic
-	-picture : http://i.imgur.com/hpDy0OD.png
-	*spaceUpgrade22
+	-picture : https://i.imgur.com/vboSmRx.png
+	*spaceUpgrade24
 	-"Dream buildings are <b>40%</b> more efficient <b>per pure brick</b>.<br><i>Of course the pure bricks have the most useful secrets within them. And infinite space knowledge is needed to put those secrets to use.</i>
 	-costs 4000 spaceBricks
 	-multiplies efficiency of compromiser by 40% per winBricks
 	-multiplies efficiency of lastBuilding by 40% per winBricks
 	-named Secrets of the Pure Bricks
 	-picture : http://i.imgur.com/MXh0xzm.png
-	*spaceUpgrade23
+	*spaceUpgrade25
 	-"Brick factories and manual brick creation are <b>1%</b> more efficient <b>per reality compromiser</b>.<br><i>The 4th wall bricks are also worth lots of fake bricks. And infinite space knowledge can put that power to use.</i>"
 	-costs 2500 spaceBricks
 	-multiplies efficiency of brickFactory by 1% per compromiser
 	-multiplies efficiency of makeBricks by 1% per compromiser
 	-named 4th Wall Power
 	-picture : http://i.imgur.com/IGBv6ys.png
-	*spaceUpgrade24
+	*spaceUpgrade26
 	-"Hand punches do <b>0.015%</b> more damage <b>per heavy duty building</b>.<br><i>Now your fists take out huge chunks of the wall with each smash!</i>
-	-costs 2500 spaceBricks
+	-costs 2000 spaceBricks
 	-multiplies efficiency of hitWall by 0.015% per heavyBuilding
 	-named The Supermasive Fist
 	-picture : http://i.imgur.com/ETvCLVg.png
-	*spaceUpgrade25
+	*spaceUpgrade27
 	-"Everything is <b>0.003%</b> more efficient <b>per building owned</b>.<br><i>With infinite space knowledge, we can steal density from the walls and transfer it to our stuff, which kills two birds with one stone.</i>
 	-costs 9000 spaceBricks
 	-multiplies efficiency of hitWall by 0.003% per building
