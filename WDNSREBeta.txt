@@ -2134,6 +2134,7 @@ Upgrades :
 	-unlocks spaceUpgrade16
 	-unlocks spaceUpgrade17
 	-unlocks spaceUpgrade18
+	-unlocks spaceUpgrade19
 	-picture : http://i.imgur.com/onMV7rU.png
 	*spaceUpgrade11
 	-"Melee buildings do <b>0.25%</b> more damage <b>per dream building</b>.<br><i>"Using more theoretical assumptions and dubious workarounds than any upgrade before, it is truly an RUC accomplishment." ~Agent Brown in the DCT proposal</i>"
@@ -2220,13 +2221,14 @@ Upgrades :
 	-"Unlocks the <b>infinite space upgrades</b>.<br><i>Space is infinite, and we should use these space bricks to take advantage of this.</i>
 	-costs 1.25e37 money, 1.25e23 fourthWallMatter
 	-named Infinite Space Research
-	-unlocks spaceUpgrade19
 	-unlocks spaceUpgrade20
 	-unlocks spaceUpgrade21
 	-unlocks spaceUpgrade22
 	-unlocks spaceUpgrade23
 	-unlocks spaceUpgrade24
 	-unlocks spaceUpgrade25
+	-unlocks spaceUpgrade26
+	-unlocks spaceUpgrade27
 	-picture : http://i.imgur.com/ofjVwCC.png
 	*spaceUpgrade20
 	-"Melee buildings do <b>0.4%</b> more damage <b>per titan</b>.<br><i>Using loads of space bricks, we can make people as strong as titans without sapping the titan's strength.</i>
