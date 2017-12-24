@@ -2717,17 +2717,40 @@ Upgrades :
 	-multiplies efficiency of makeBricks by 0.1% per forceFieldBricks
 	-multiplies efficiency of makeBricks2 by 0.1% per forceFieldBricks
 	-named Godly Extractors
-	-picture : http://i.imgur.com/CLqEog4.png	
-	*specialRandomBonusUpgrade
+	-picture : http://i.imgur.com/CLqEog4.png
+	*specialUpgrade1
+	-"Everything is <b>10%</b> more efficient <b>per 1,000,000,000 cosmic knowledge.</b><br><i>Now the knowledge from destroying the walls can be put to use even before rewinding time.</i>"
+	-costs 1.130430887339099e72 money, 1.130430887339099e61 bricks, 50000 spaceBricks
+	-unlocks at 60 destroyBonusWall56
+	-multiplies efficiency of brickFactory by 0.00000001% per prePrestige
+	-multiplies efficiency of makeBricks by 0.00000001% per prePrestige
+	-multiplies efficiency of makeBricks2 by 0.00000001% per prePrestige
+	-multiplies efficiency of hitWall by 0.00000001% per prePrestige
+	-multiplies efficiency of puncher by 0.00000001% per prePrestige
+	-multiplies efficiency of clubber by 0.00000001% per prePrestige
+	-multiplies efficiency of swordsman by 0.00000001% per prePrestige
+	-multiplies efficiency of gunner by 0.00000001% per prePrestige
+	-multiplies efficiency of grenade by 0.00000001% per prePrestige
+	-multiplies efficiency of wreckingBall by 0.00000001% per prePrestige
+	-multiplies efficiency of bulldozer by 0.00000001% per prePrestige
+	-multiplies efficiency of airstrike by 0.00000001% per prePrestige
+	-multiplies efficiency of necromancer by 0.00000001% per prePrestige
+	-multiplies efficiency of giant by 0.00000001% per prePrestige
+	-multiplies efficiency of demon by 0.00000001% per prePrestige
+	-multiplies efficiency of compromiser by 0.00000001% per prePrestige
+	-multiplies efficiency of lastBuilding by 0.00000001% per prePrestige
+	-named Cosmic Wisdom
+	-picture : https://i.imgur.com/QkFQJEl.png
+	*specialUpgrade5
 	-"Random bonus points appear <b>five times</b> as often<b>after destroying The Wall Source</b><br><i></i>"
-	-costs 1.199518993269430e134 money, 1.199518993269430e123 bricks
+	-costs 1.199518993269430e134 money, 1.199518993269430e123 bricks, 50000 timeBricks
 	-unlocks at 190 destroyBonusWall56
 	-named More Generous Demons
 	-picture : http://i.imgur.com/PdAQaCw.png
-	*specialProuctionMultiplier
+	*specialUpgrade11
 	-"Everything is <b>0.001%</b> more efficient <b>per building owned</b>, and <b>0.002%</b> <b>per minute since reset.</b><br><i></i>"
 	-costs 2.469703234932766e148 money, 2.469703234932766e137 bricks
-	-unlocks at 220 destroyBonusWall56
+	-unlocks at 390 destroyBonusWall56
 	-multiplies efficiency of hitWall by 0.002% per building
 	-multiplies efficiency of puncher by 0.002% per building
 	-multiplies efficiency of clubber by 0.002% per building
