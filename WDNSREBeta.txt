@@ -1471,7 +1471,7 @@ Buildings :
 	-gives 1 wallRequirement when bought
 	-unlocks destroyBonusWall55
 	*destroyBonusWall55
-	-"<i>Whoa This is it. THIS IS WHERE IT ENDS.</i><br> <br>Destroy the Wall Source.<br>Gives <b>62.5 nonillion</b> bricks and <b>31.25 tredecillion</b> cash.<br>Gives <b>8</b> Force Field Bricks and <b>6,000</b> time bricks.<br>Worth <b>50,000,000</b> cosmic knowledge.<br><b>Unlocks any eternal time upgrades that were not already unlocked.</b>"
+	-"<i>Whoa... This is it. THIS IS WHERE IT ENDS.</i><br> <br>Destroy the Wall Source.<br>Gives <b>62.5 nonillion</b> bricks and <b>31.25 tredecillion</b> cash.<br>Gives <b>8</b> Force Field Bricks and <b>6,000</b> time bricks.<br>Worth <b>50,000,000</b> cosmic knowledge.<br><b>Unlocks any eternal time upgrades that were not already unlocked.</b>"
 	-costs 1.25e44 totalMoney
 	-gives 6.25e31 bricks when bought
 	-gives 6.25e31 totalBricks when bought
@@ -1480,7 +1480,7 @@ Buildings :
 	-represents 1 winBricks, 1 goldBricks, 1 actualwinBricks
 	-represents 1 wallsDestroyed
 	-represents 40000000 prePrestige
-	-builds 1 timeUpgradeProducer5 when bought requiring 1 specialRandomBonusUpgrade
+	-builds 1 timeUpgradeProducer5 when bought requiring 1 specialUpgrade5
 	-unlocks timeUpgrade22
 	-unlocks timeUpgrade23
 	-unlocks timeUpgrade24
@@ -1496,12 +1496,16 @@ Buildings :
 	-gives 1 wallRequirement when bought
 	-unlocks destroyBonusWall56
 	*destroyBonusWall56
-	-"<i>(A note) Well, well Congratulations!<br>I did not expect you mortals to amass enough power to best even the End Wall, but here you are after all this time. Now obviously I'm not going to give you any answers or make an appearance myself because that would ruin the mystery. However I know you'd like the game to continue, so I set up a little something to go after like the genre-savvy guy I am. Carry on, now!<br>~The King</i><br> <br>Destroy the Infi-Wall.<br>Gives <b>200 nonillion</b> bricks and <b>100 tredecillion</b> cash.<br>Gives <b>3,000</b> space bricks, <b>1,500</b> time bricks, <b>5</b> End bricks, <b>4</b> Finality bricks, <b>3</b> Door bricks, and <b>2</b> Force Field bricks.<br>Worth <b>200,000,000</b> cosmic knowledge.<br><b>Rewards increase each time the Infi-Wall is destroyed</b>"
+	-"<i>(A note) Well, well... Congratulations!<br>I did not expect you mortals to amass enough power to best even the End Wall, but here you are after all this time. Now obviously I'm not going to give you any answers or make an appearance myself because that would ruin the mystery. However I know you'd like the game to continue, so I set up a little something to go after like the genre-savvy guy I am. Carry on, now!<br>~The King</i><br> <br>Destroy the Infi-Wall.<br>Gives <b>200 nonillion</b> bricks and <b>100 tredecillion</b> cash.<br>Gives <b>3,000</b> space bricks, <b>1,500</b> time bricks, <b>5</b> End bricks, <b>4</b> Finality bricks, <b>3</b> Door bricks, and <b>2</b> Force Field bricks.<br>Worth <b>200,000,000</b> cosmic knowledge.<br><b>Rewards increase each time the Infi-Wall is destroyed</b>"
 	-costs 4e44 totalMoney
 	-gives 1e32 bricks when bought
 	-gives 1e32 totalBricks when bought
 	-gives 5e43 money when bought
 	-gives 1500 spaceBricks, 750 timeBricks, 2.5 endBricks, 2 finalityBricks, 1.5 doorBricks, 1 forceFieldBricks when bought
+	-gives 4e32 bricks when bought requiring 1 specialUpgrade2
+	-gives 4e32 totalBricks when bought requiring 1 specialUpgrade2
+	-gives 2e44 money when bought requiring 1 specialUpgrade2
+	-gives 6000 spaceBricks, 3000 timeBricks, 10 endBricks, 8 finalityBricks, 6 doorBricks, 4 forceFieldBricks when bought requiring 1 specialUpgrade2
 	-represents 1 wallsDestroyed
 	-gives 100000000 prePrestige when bought
 	-price increases by 300%
@@ -1546,20 +1550,20 @@ Buildings :
 	-gives 1 timeUpgradeResource29 0.005% of the time
 	*timeUpgradeProducer5
 	-abstract
-	-gives 1 timeUpgradeResource13 0.045% of the time
-	-gives 1 timeUpgradeResource14 0.045% of the time
-	-gives 1 timeUpgradeResource15 0.045% of the time
-	-gives 1 timeUpgradeResource16 0.045% of the time
-	-gives 1 timeUpgradeResource17 0.045% of the time
-	-gives 1 timeUpgradeResource18 0.045% of the time
-	-gives 1 timeUpgradeResource21 0.045% of the time
-	-gives 1 timeUpgradeResource22 0.045% of the time
-	-gives 1 timeUpgradeResource23 0.045% of the time
-	-gives 1 timeUpgradeResource24 0.045% of the time
-	-gives 1 timeUpgradeResource25 0.045% of the time
-	-gives 1 timeUpgradeResource26 0.045% of the time
-	-gives 1 timeUpgradeResource27 0.045% of the time
-	-gives 1 timeUpgradeResource28 0.045% of the time
+	-gives 1 timeUpgradeResource13 0.02% of the time
+	-gives 1 timeUpgradeResource14 0.02% of the time
+	-gives 1 timeUpgradeResource15 0.02% of the time
+	-gives 1 timeUpgradeResource16 0.02% of the time
+	-gives 1 timeUpgradeResource17 0.02% of the time
+	-gives 1 timeUpgradeResource18 0.02% of the time
+	-gives 1 timeUpgradeResource21 0.02% of the time
+	-gives 1 timeUpgradeResource22 0.02% of the time
+	-gives 1 timeUpgradeResource23 0.02% of the time
+	-gives 1 timeUpgradeResource24 0.02% of the time
+	-gives 1 timeUpgradeResource25 0.02% of the time
+	-gives 1 timeUpgradeResource26 0.02% of the time
+	-gives 1 timeUpgradeResource27 0.02% of the time
+	-gives 1 timeUpgradeResource28 0.02% of the time
 
 	*puncher
     -"Melee building<br>Does <b>0.1</b> base damage.<br><i>Punches the wall for you.</i> 
@@ -1594,7 +1598,7 @@ Buildings :
 	-represents 1 meleeBuilding
 	-visible
 
-    *gunner
+   	*gunner
 	-"Ranged building<br>Does <b>30</b> base damage.<br><i>Shoots his gun.</i>"
 	-costs 16000 money
 	-gives 30 money
@@ -2600,7 +2604,7 @@ Upgrades :
 	
 	*specialBrickExtractor
 	-"Everything is <b>0.002%</b> more efficient per <b>space brick</b> and <b>0.004%</b> per <b>time brick</b>.<br><i>"I can barely contain my excitement." ~Agent Johnson<br>"There's something about the massive concentration of sarcasm in your voice that makes me think otherwise." ~Agent Lawrence<br>"Look, I just want more interesting upgrades, okay?" ~Agent Johnson</i>"
-	-costs 8e43 money, 8e32 bricks
+	-costs 8e43 money, 8e32 bricks, 25000 spaceBricks, 12500 timeBricks
 	-unlocks at 1 destroyBonusWall56
 	-multiplies efficiency of hitWall by 0.002% per spaceBricks
 	-multiplies efficiency of puncher by 0.002% per spaceBricks
@@ -2640,7 +2644,7 @@ Upgrades :
 	-picture : http://i.imgur.com/jfpb6HS.png
 	*specialBrickExtractor2
 	-"Everything is <b>0.05%</b> more efficient per <b>End brick</b> and <b>0.06%</b> per <b>Finality Brick</b>.<br><i>If you're not extracting everything of value from everything, you clearly do not have enough extractors.</i>"
-	-costs 9.298091736e52 money, 9.298091736e41 bricks
+	-costs 9.298091736e52 money, 9.298091736e41 bricks, 75000 spaceBricks, 37500 timeBricks
 	-unlocks at 20 destroyBonusWall56
 	-multiplies efficiency of hitWall by 0.05% per endBricks
 	-multiplies efficiency of puncher by 0.05% per endBricks
@@ -2680,7 +2684,7 @@ Upgrades :
 	-picture : http://i.imgur.com/5aqM5G5.png
 	*specialBrickExtractor3
 	-"Everything is <b>0.08%</b> more efficient per <b>Door brick</b> and <b>0.1%</b> per <b>Force Field Brick</b>.<br><i></i>"
-	-costs 3.242044122415181e62 money, 3.242044122415181e51 bricks
+	-costs 3.242044122415181e62 money, 3.242044122415181e51 bricks, 200000 spaceBricks, 100000 timeBricks
 	-unlocks at 40 destroyBonusWall56
 	-multiplies efficiency of hitWall by 0.08% per doorBricks
 	-multiplies efficiency of puncher by 0.08% per doorBricks
@@ -2720,7 +2724,7 @@ Upgrades :
 	-picture : http://i.imgur.com/CLqEog4.png
 	*specialUpgrade1
 	-"Everything is <b>1%</b> more efficient <b>per 1,000,000,000 cosmic knowledge.</b><br><i>Now the knowledge from destroying the walls can be put to use even before rewinding time.</i>"
-	-costs 1.130430887339099e72 money, 1.130430887339099e61 bricks, 50000 spaceBricks
+	-costs 1.130430887339099e72 money, 1.130430887339099e61 bricks, 500000 spaceBricks
 	-unlocks at 60 destroyBonusWall56
 	-multiplies efficiency of brickFactory by 0.000000001% per prePrestige
 	-multiplies efficiency of makeBricks by 0.000000001% per prePrestige
@@ -2741,9 +2745,15 @@ Upgrades :
 	-multiplies efficiency of lastBuilding by 0.000000001% per prePrestige
 	-named Cosmic Wisdom
 	-picture : https://i.imgur.com/QkFQJEl.png
+	*specialUpgrade2
+	-"The Infi-wall gives <b>five times</b> as much loot.<br><i></i>"
+	-costs 2.327456951490057e86 money, 2.327456951490057e75 bricks, 1000000 spaceBricks
+	-unlocks at 90 destroyBonusWall56
+	-named More Generous Walls
+	-picture : https://i.imgur.com/ZeIowzp.png
 	*specialUpgrade5
 	-"Random bonus points appear <b>five times</b> as often<b>after destroying The Wall Source</b><br><i></i>"
-	-costs 1.199518993269430e134 money, 1.199518993269430e123 bricks, 50000 timeBricks
+	-costs 1.199518993269430e134 money, 1.199518993269430e123 bricks, 500000 timeBricks
 	-unlocks at 190 destroyBonusWall56
 	-named More Generous Demons
 	-picture : http://i.imgur.com/PdAQaCw.png
