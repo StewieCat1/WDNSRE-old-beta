@@ -2719,26 +2719,26 @@ Upgrades :
 	-named Godly Extractors
 	-picture : http://i.imgur.com/CLqEog4.png
 	*specialUpgrade1
-	-"Everything is <b>10%</b> more efficient <b>per 1,000,000,000 cosmic knowledge.</b><br><i>Now the knowledge from destroying the walls can be put to use even before rewinding time.</i>"
+	-"Everything is <b>1%</b> more efficient <b>per 1,000,000,000 cosmic knowledge.</b><br><i>Now the knowledge from destroying the walls can be put to use even before rewinding time.</i>"
 	-costs 1.130430887339099e72 money, 1.130430887339099e61 bricks, 50000 spaceBricks
 	-unlocks at 60 destroyBonusWall56
-	-multiplies efficiency of brickFactory by 0.00000001% per prePrestige
-	-multiplies efficiency of makeBricks by 0.00000001% per prePrestige
-	-multiplies efficiency of makeBricks2 by 0.00000001% per prePrestige
-	-multiplies efficiency of hitWall by 0.00000001% per prePrestige
-	-multiplies efficiency of puncher by 0.00000001% per prePrestige
-	-multiplies efficiency of clubber by 0.00000001% per prePrestige
-	-multiplies efficiency of swordsman by 0.00000001% per prePrestige
-	-multiplies efficiency of gunner by 0.00000001% per prePrestige
-	-multiplies efficiency of grenade by 0.00000001% per prePrestige
-	-multiplies efficiency of wreckingBall by 0.00000001% per prePrestige
-	-multiplies efficiency of bulldozer by 0.00000001% per prePrestige
-	-multiplies efficiency of airstrike by 0.00000001% per prePrestige
-	-multiplies efficiency of necromancer by 0.00000001% per prePrestige
-	-multiplies efficiency of giant by 0.00000001% per prePrestige
-	-multiplies efficiency of demon by 0.00000001% per prePrestige
-	-multiplies efficiency of compromiser by 0.00000001% per prePrestige
-	-multiplies efficiency of lastBuilding by 0.00000001% per prePrestige
+	-multiplies efficiency of brickFactory by 0.000000001% per prePrestige
+	-multiplies efficiency of makeBricks by 0.000000001% per prePrestige
+	-multiplies efficiency of makeBricks2 by 0.000000001% per prePrestige
+	-multiplies efficiency of hitWall by 0.000000001% per prePrestige
+	-multiplies efficiency of puncher by 0.000000001% per prePrestige
+	-multiplies efficiency of clubber by 0.000000001% per prePrestige
+	-multiplies efficiency of swordsman by 0.000000001% per prePrestige
+	-multiplies efficiency of gunner by 0.000000001% per prePrestige
+	-multiplies efficiency of grenade by 0.000000001% per prePrestige
+	-multiplies efficiency of wreckingBall by 0.000000001% per prePrestige
+	-multiplies efficiency of bulldozer by 0.000000001% per prePrestige
+	-multiplies efficiency of airstrike by 0.000000001% per prePrestige
+	-multiplies efficiency of necromancer by 0.000000001% per prePrestige
+	-multiplies efficiency of giant by 0.000000001% per prePrestige
+	-multiplies efficiency of demon by 0.000000001% per prePrestige
+	-multiplies efficiency of compromiser by 0.000000001% per prePrestige
+	-multiplies efficiency of lastBuilding by 0.000000001% per prePrestige
 	-named Cosmic Wisdom
 	-picture : https://i.imgur.com/QkFQJEl.png
 	*specialUpgrade5
@@ -3480,7 +3480,7 @@ Upgrades :
 	*timeBearWard1
 	-"Everything is <b>5%</b> more efficient.<br><i>The wizards report feeling the power of the Time Bear upon their magic, and tell us not to manipulate time further. They can create wards that may steer the Time Bear in a different direction, making our guys less scared, therefore raising their productivity.</i>"
 	-costs 98765432101 fourthWallMatter, 9876543210123 bricks
-	-unlocks at 175 prestige, 10 resetTimes
+	-unlocks at 175 prestige, 5 resetTimes
 	-unlocks timeBearAchieve
 	-multiplies efficiency of hitWall by 105%
 	-multiplies efficiency of puncher by 105%
@@ -3504,7 +3504,7 @@ Upgrades :
 	*timeBearWard2
 	-"Everything is <b>5%</b> more efficient.<br><i>We asked the wizards what the Time Bear is, and they said "Something that you do not want aware of your presence." That's a little ominous, but not enough to stop us from using everything we have to take down this wall!</i>"
 	-costs 987654321012 fourthWallMatter, 98765432101234 bricks
-	-unlocks at 400 prestige, 11 resetTimes
+	-unlocks at 400 prestige, 6 resetTimes
 	-multiplies efficiency of hitWall by 105%
 	-multiplies efficiency of puncher by 105%
 	-multiplies efficiency of clubber by 105%
@@ -3527,7 +3527,7 @@ Upgrades :
 	*timeBearWard3
 	-"Everything is <b>5%</b> more efficient.<br><i>We were going to ask the titans what the Time Bear is, but the translator wizards refused to ask them, saying "There are too many old wounds."</i>"
 	-costs 9876543210123 fourthWallMatter, 987654321012345 bricks
-	-unlocks at 900 prestige, 12 resetTimes
+	-unlocks at 900 prestige, 7 resetTimes
 	-multiplies efficiency of hitWall by 105%
 	-multiplies efficiency of puncher by 105%
 	-multiplies efficiency of clubber by 105%
@@ -3550,7 +3550,7 @@ Upgrades :
 	*timeBearWard4
 	-"Everything is <b>5%</b> more efficient.<br><i>We asked the demons what the Time Bear is, and the chief demon said "Something you do not want anywhere near you." This sounds strange coming from the guy who has carried around some of the most dangerous things we have ever encountered and trolled people with them.</i>"
 	-costs 98765432101234 fourthWallMatter, 9876543210123456 bricks
-	-unlocks at 2500 prestige, 13 resetTimes
+	-unlocks at 2500 prestige, 8 resetTimes
 	-multiplies efficiency of hitWall by 105%
 	-multiplies efficiency of puncher by 105%
 	-multiplies efficiency of clubber by 105%
@@ -3573,7 +3573,7 @@ Upgrades :
 	*timeBearWard5
 	-"Everything is <b>6%</b> more efficient.<br><i></i>"
 	-costs 987654321012345 fourthWallMatter, 98765432101234567 bricks
-	-unlocks at 7500 prestige, 14 resetTimes
+	-unlocks at 7500 prestige, 9 resetTimes
 	-multiplies efficiency of hitWall by 106%
 	-multiplies efficiency of puncher by 106%
 	-multiplies efficiency of clubber by 106%
@@ -3596,7 +3596,7 @@ Upgrades :
 	*timeBearWard6
 	-"Everything is <b>6%</b> more efficient.<br><i></i>"
 	-costs 98765432101234567 fourthWallMatter, 9876543210123456789 bricks
-	-unlocks at 17500 prestige, 15 resetTimes
+	-unlocks at 17500 prestige, 10 resetTimes
 	-multiplies efficiency of hitWall by 106%
 	-multiplies efficiency of puncher by 106%
 	-multiplies efficiency of clubber by 106%
@@ -3619,7 +3619,7 @@ Upgrades :
 	*timeBearWard7
 	-"Everything is <b>6%</b> more efficient.<br><i>One of our agents went crazy, muttering about seeing the Time Bear. The wizards are saying he may have been tainted and must be executed.</i>"
 	-costs 987654321012345678 fourthWallMatter, 98765432101234567890 bricks
-	-unlocks at 40000 prestige, 16 resetTimes
+	-unlocks at 40000 prestige, 11 resetTimes
 	-multiplies efficiency of hitWall by 106%
 	-multiplies efficiency of puncher by 106%
 	-multiplies efficiency of clubber by 106%
@@ -3642,7 +3642,7 @@ Upgrades :
 	*timeBearWard8
 	-"Everything is <b>7%</b> more efficient.<br><i>Found graffiti on the side of RUC headquarters saying "THE TIME BEAR IS COMING". Reports of irrational feelings of fear when looking at it. Requesting termination of the Time Rewinder project. ~Agent Lawrence</i>"
 	-costs 9876543210123456789 fourthWallMatter, 9.876543210123456789e20 bricks
-	-unlocks at 90000 prestige, 17 resetTimes
+	-unlocks at 90000 prestige, 12 resetTimes
 	-multiplies efficiency of hitWall by 107%
 	-multiplies efficiency of puncher by 107%
 	-multiplies efficiency of clubber by 107%
@@ -3665,7 +3665,7 @@ Upgrades :
 	*timeBearWard9
 	-"Everything is <b>7%</b> more efficient.<br><i>The graffiti is everywhere now. On all of our facilities. It seems to appear overnight, after the cameras strangely go offline. Requesting immediate termination of the Time Rewinder project. ~Chief of Security, RUC</i>"
 	-costs 9.876543210123456789e19 fourthWallMatter, 9.876543210123456789e21 bricks
-	-unlocks at 250000 prestige, 18 resetTimes
+	-unlocks at 250000 prestige, 13 resetTimes
 	-multiplies efficiency of hitWall by 107%
 	-multiplies efficiency of puncher by 107%
 	-multiplies efficiency of clubber by 107%
@@ -3688,7 +3688,7 @@ Upgrades :
 	*timeBearWard10
 	-"Everything is <b>7%</b> more efficient.<br><i></i>"
 	-costs 9.876543210123456789e20 fourthWallMatter, 9.876543210123456789e22 bricks
-	-unlocks at 750000 prestige, 19 resetTimes
+	-unlocks at 750000 prestige, 14 resetTimes
 	-multiplies efficiency of hitWall by 107%
 	-multiplies efficiency of puncher by 107%
 	-multiplies efficiency of clubber by 107%
@@ -3711,7 +3711,7 @@ Upgrades :
 	*timeBearWard11
 	-"Everything is <b>8%</b> more efficient.<br><i></i>"
 	-costs 9.876543210123456789e21 fourthWallMatter, 9.876543210123456789e23 bricks
-	-unlocks at 1750000 prestige, 20 resetTimes
+	-unlocks at 1750000 prestige, 15 resetTimes
 	-multiplies efficiency of hitWall by 108%
 	-multiplies efficiency of puncher by 108%
 	-multiplies efficiency of clubber by 108%
@@ -3734,7 +3734,7 @@ Upgrades :
 	*timeBearWard12
 	-"Everything is <b>8%</b> more efficient.<br><i>"dude this is some creepy shit just cut the time crap" ~1337 sn1p3r #73</i>"
 	-costs 9.876543210123456789e22 fourthWallMatter, 9.876543210123456789e24 bricks
-	-unlocks at 4000000 prestige, 21 resetTimes
+	-unlocks at 4000000 prestige, 16 resetTimes
 	-multiplies efficiency of hitWall by 108%
 	-multiplies efficiency of puncher by 108%
 	-multiplies efficiency of clubber by 108%
@@ -3757,7 +3757,7 @@ Upgrades :
 	*timeBearWard13
 	-"Everything is <b>8%</b> more efficient.<br><i>We asked the wizards if there was any way to fully stop the Time Bear, and they said "You do not attempt to destroy the sun to prevent it from rising."</i>"
 	-costs 9.876543210123456789e23 fourthWallMatter, 9.876543210123456789e26 bricks
-	-unlocks at 9000000 prestige, 22 resetTimes
+	-unlocks at 9000000 prestige, 17 resetTimes
 	-multiplies efficiency of hitWall by 108%
 	-multiplies efficiency of puncher by 108%
 	-multiplies efficiency of clubber by 108%
@@ -3780,7 +3780,7 @@ Upgrades :
 	*timeBearWard14
 	-"Everything is <b>9%</b> more efficient.<br><i>We asked the demons if they could stop the Time Bear, and they said "There are things that you do not mess with. With us, there are only two. Our boss, and the Time Bear."</i>"
 	-costs 9.876543210123456789e25 fourthWallMatter, 9.876543210123456789e27 bricks
-	-unlocks at 25000000 prestige, 23 resetTimes
+	-unlocks at 25000000 prestige, 18 resetTimes
 	-multiplies efficiency of hitWall by 109%
 	-multiplies efficiency of puncher by 109%
 	-multiplies efficiency of clubber by 109%
@@ -3803,7 +3803,7 @@ Upgrades :
 	*timeBearWard15
 	-"Everything is <b>9%</b> more efficient.<br><i>The reality compromiser project leader attempted to find the Time Bear in reality code, to remove it. He was found dead two hours later in the seat of a reality compromiser. When inspected for cause of death, it seemed he had died of shock.</i>"
 	-costs 9.876543210123456789e26 fourthWallMatter, 9.876543210123456789e28 bricks
-	-unlocks at 75000000 prestige, 24 resetTimes
+	-unlocks at 75000000 prestige, 19 resetTimes
 	-multiplies efficiency of hitWall by 109%
 	-multiplies efficiency of puncher by 109%
 	-multiplies efficiency of clubber by 109%
@@ -3826,7 +3826,7 @@ Upgrades :
 	*timeBearWard16
 	-"Everything is <b>10%</b> more efficient.<br><i>"This is the last ward the wizards can make. I do not know where we should go from this. I am going to remove myself from anywhere that could be associated with time travel. This is a farewell message. The Time Bear is coming."<br>~CEO, RUC</i>"
 	-costs 9.876543210123456789e27 fourthWallMatter, 9.876543210123456789e29 bricks
-	-unlocks at 175000000 prestige, 25 resetTimes
+	-unlocks at 175000000 prestige, 20 resetTimes
 	-unlocks timeBearAchieve2
 	-multiplies efficiency of hitWall by 110%
 	-multiplies efficiency of puncher by 110%
@@ -3850,7 +3850,7 @@ Upgrades :
 	*timeBearWard17
 	-"Everything is <b>12%</b> more efficient.<br><i>There is one thing that does not fear the Time Bear: The Black. The most evil substance known to anyone may be our only hope.</i>"
 	-costs 9.876543210123456789e28 fourthWallMatter, 9.876543210123456789e30 bricks
-	-unlocks at 400000000 prestige, 26 resetTimes
+	-unlocks at 400000000 prestige, 22 resetTimes
 	-multiplies efficiency of hitWall by 112%
 	-multiplies efficiency of puncher by 112%
 	-multiplies efficiency of clubber by 112%
@@ -3873,7 +3873,7 @@ Upgrades :
 	*timeBearWard18
 	-"Everything is <b>15%</b> more efficient.<br><i></i>"
 	-costs 9.876543210123456789e29 fourthWallMatter, 9.876543210123456789e31 bricks
-	-unlocks at 900000000 prestige, 27 resetTimes
+	-unlocks at 900000000 prestige, 24 resetTimes
 	-multiplies efficiency of hitWall by 115%
 	-multiplies efficiency of puncher by 115%
 	-multiplies efficiency of clubber by 115%
@@ -3896,7 +3896,7 @@ Upgrades :
 	*timeBearWard19
 	-"Everything is <b>20%</b> more efficient.<br><i>Whoever these guys were or are, they have supposedly come close to the Time Bear and survived. Perhaps their artifacts could help us.</i>"
 	-costs 9.876543210123456789e30 fourthWallMatter, 9.876543210123456789e32 bricks
-	-unlocks at 2500000000 prestige, 28 resetTimes
+	-unlocks at 2500000000 prestige, 26 resetTimes
 	-multiplies efficiency of hitWall by 120%
 	-multiplies efficiency of puncher by 120%
 	-multiplies efficiency of clubber by 120%
@@ -3919,7 +3919,7 @@ Upgrades :
 	*timeBearWard20
 	-"Everything is <b>25%</b> more efficient.<br><i></i>"
 	-costs 9.876543210123456789e31 fourthWallMatter, 9.876543210123456789e33 bricks
-	-unlocks at 7500000000 prestige, 29 resetTimes
+	-unlocks at 7500000000 prestige, 28 resetTimes
 	-multiplies efficiency of brickFactory by 125%
 	-multiplies efficiency of makeBricks by 125%
 	-multiplies efficiency of makeBricks2 by 125%
