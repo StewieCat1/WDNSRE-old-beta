@@ -185,7 +185,7 @@ Resources :
         -named boss point|boss points
         *timesActuallyWon
         -named true victory point|true victory points
-		*timesReallyActuallyWon
+	*timesReallyActuallyWon
         -named Really true victory point|Really true victory points
  
         *resetTimes
@@ -1782,7 +1782,7 @@ Upgrades :
 	-multiplies efficiency of makeBricks2 by 10% per timesActuallyWon
 	-picture : http://i.imgur.com/nLIn2uJ.png
 	*win2
-	-"Everything is <b>50%</b> more efficient if you have the Source brick. Everything is <b>40%</b> more efficient per Really true victory point.</b><br><i></i>"
+	-"Everything is <b>50%</b> more efficient if you have the Source brick. Everything is <b>20%</b> more efficient per Really true victory point.</b><br><i></i>"
 	-requires 1400 puncher, 1300 clubber, 1300 swordsman, 1300 gunner, 1200 grenade, 1200 wreckingBall, 1200 bulldozer, 1200 airstrike, 1100 necromancer, 1100 giant, 1100 demon, 1000 compromiser, 900 lastBuilding, 1100 brickFactory
 	-requires 1e+57 handDamage, 5000000000 prestige, 50 destroyBonusWall56
 	-unlocks at 1 actualwinBricks
@@ -1798,7 +1798,7 @@ Upgrades :
 	-multiplies efficiency of airstrike by 50% per actualwinBricks
 	-multiplies efficiency of necromancer by 50% per actualwinBricks
 	-multiplies efficiency of giant by 50% per actualwinBricks
-	-multiplies efficiency of demon by 50% per actualwinBrickss
+	-multiplies efficiency of demon by 50% per actualwinBricks
 	-multiplies efficiency of compromiser by 50% per actualwinBricks
 	-multiplies efficiency of lastBuilding by 50% per actualwinBricks
 	-multiplies efficiency of brickFactory by 50% per actualwinBricks
