@@ -7314,7 +7314,7 @@ Upgrades :
 	-multiplies efficiency of demon by 800%
 	-multiplies efficiency of demon by 0.16% per demon
 	-named Anti-Black Hole Barriers
-	-picture : https://i.imgur.com/NzU1msT.png
+	-picture : https://i.imgur.com/PBrjY8b.png
 	
 	*demonMagicUpgrade
 	-"Demons do <b>three times</b> as much damage.<br><i>They told us they'd use these strictly for trolling.<br>EDIT: WHY THE HELL DID WE GIVE THEM THESE</i>"
@@ -7507,7 +7507,7 @@ Upgrades :
 	-named Black-Coalesced Reality Sawblades
 	-picture : http://i.imgur.com/VeoBNKx.png
 	*compromiserUpgradeArmy
-	-"Reality compromisers are <b>6.4 times</b> as efficient.<br>Manual 4th wall brick creation produces <b>eight times</b> as many 4th wall bricks.<br>><i></i>"
+	-"Reality compromisers are <b>6.4 times</b> as efficient.<br>Manual 4th wall brick creation produces <b>eight times</b> as many 4th wall bricks.<br><i></i>"
 	-costs 1.01e48 money, 1.01e37 bricks, 1.01e33 fourthWallMatter
 	-unlocks at 800 compromiser
 	-multiplies efficiency of compromiser by 640%
@@ -7886,7 +7886,7 @@ Upgrades :
 	-unlocks at 800 brickFactory
 	-multiplies efficiency of brickFactory by 640%
 	-multiplies efficiency of makeBricks by 640%
-	-named Faster Factory Flow of Time
+	-named The Legend of #17
 	-picture : http://i.imgur.com/8I7D86M.png
 
 	*brickFactoryAndDemonUpgrade
@@ -9954,7 +9954,7 @@ Achievements :
 	-"Hire <b>1,000</b> demons.<br><i></i>"
 	-named The Inferno
 	-unlocks at 1000 demon
-	-picture : http://i.imgur.com/Q6TC1dA.png
+	-picture : https://i.imgur.com/PBrjY8b.png
 
 	*compromiserAchieve
 	-"Build <b>1</b> reality compromiser."
