@@ -7666,6 +7666,14 @@ Upgrades :
 	-multiplies efficiency of lastBuilding by 0.16% per lastBuilding
 	-named The Black with Singularities
 	-picture : https://i.imgur.com/CeWEpPK.png
+	*lastBuildingUpgrade16
+	-"Black obliterators do <b>eleven times</b> as much damage.<br>Black obliterators do <b>11%</b> more damage per 50 Black obliterators.<br><i></i>"
+	-costs 5.2e82 money, 5.2e67 fourthwallmatter
+	-unlocks at 1500 lastBuilding
+	-multiplies efficiency of lastBuilding by 1100%
+	-multiplies efficiency of lastBuilding by 0.22% per lastBuilding
+	-named Flood of The Black
+	-picture : https://i.imgur.com/78Z42bV.png
 
 	*lastBuildingUpgradeMagic
 	-"Black obliterators do <b>three times</b> as much damage.<br><i>Teleportation spells are basically the duct tape of magic.</i>"
@@ -7769,6 +7777,16 @@ Upgrades :
 	-multiplies efficiency of lastBuilding by 0.052% per compromiser
 	-named Working Together Again
 	-picture : http://i.imgur.com/Qju41Tj.png
+	*compromiserAndLastBuildingUpgrade9
+	-"Reality compromisers do <b>0.055%</b> more damage per black obliterator, squared.<br>Black obliterators do <b>0.055%</b> more damage per reality compromiser, squared.<br><i>Is The Black more powerful than a black hole? Can The Black escape a black hole?</i>"
+	-costs 5.26e+81 money, 5.26e+66 fourthwallmatter
+	-unlocks at 1600 compromiser, 1500 lastBuilding
+	-multiplies efficiency of compromiser by 0.055% per lastBuilding
+	-multiplies efficiency of lastBuilding by 0.055% per compromiser
+	-multiplies efficiency of compromiser by 0.055% per lastBuilding
+	-multiplies efficiency of lastBuilding by 0.055% per compromiser
+	-named Insight on The Black and Black Holes
+	-picture : https://i.imgur.com/VDw4Q7G.png
 
 	*brickFactoryUpgrade
 	-"Brick factories produce <b>50%</b> more bricks.<br><i>The dark magic tablets we're using can talk, so we need to learn more about them to use them better. They sound really creepy, and talk about really disturbing stuff.</i>"
@@ -7882,8 +7900,8 @@ Upgrades :
 	-named The Holy Brick of Tellurium
 	-picture : http://i.imgur.com/z30gAln.png
 	*brickFactoryUpgrade15
-	-"Brick factories and manual brick creation produce <b>eight times</b> as many bricks.<br>Brick factories, manual brick creation, and manual 4th wall brick creation produce <b>5.2%</b> more bricks per 50 brick factories.<br><i>Now Evil can be infinitely dense!</i>"
-	-costs 4.333e55 money
+	-"Brick factories and manual brick creation produce <b>eight times</b> as many bricks.<br>Brick factories, manual brick creation, and manual 4th wall brick creation produce <b>8%</b> more bricks per 50 brick factories.<br><i>Now Evil can be infinitely dense!</i>"
+	-costs 8.6666e65 money
 	-unlocks at 1250 brickFactory
 	-multiplies efficiency of brickFactory by 800%
 	-multiplies efficiency of makeBricks by 800%
@@ -7891,6 +7909,16 @@ Upgrades :
 	-multiplies efficiency of makeBricks by 0.16% per brickFactory
 	-named Black Hole of Evil
 	-picture : https://i.imgur.com/CORbZvF.png
+	*brickFactoryUpgrade16
+	-"Brick factories and manual brick creation produce <b>eleven times</b> as many bricks.<br>Brick factories, manual brick creation, and manual 4th wall brick creation produce <b>11%</b> more bricks per 50 brick factories.<br><i></i>"
+	-costs 1.6666e76 money
+	-unlocks at 1500 brickFactory
+	-multiplies efficiency of brickFactory by 1100%
+	-multiplies efficiency of makeBricks by 1100%
+	-multiplies efficiency of brickFactory by 0.22% per brickFactory
+	-multiplies efficiency of makeBricks by 0.22% per brickFactory
+	-named Black Hole of The Black
+	-picture : https://i.imgur.com/5TIpjsu.png
 
 	*brickFactoryMagicUpgrade
 	-"Brick factories and manual brick creation produce <b>three times</b> as many bricks.<br><i>We've asked the wizards what exactly makes some magic "evil", and they said that the First Wizards who invented all the spells just kinda decided that certain spells were "evil". The First Wizards are pretty widely hated among magic users.</i>"
@@ -7999,6 +8027,16 @@ Upgrades :
 	-unlocks at 1000 demon, 1000 brickFactory
 	-named Anti-God Barriers
 	-picture : http://i.imgur.com/xUBVjZ2.png
+	*brickFactoryAndDemonUpgrade9
+	-"Brick factories produce <b>0.055%</b> more bricks per demon, squared.<br>Demons do <b>0.055%</b> more damage per brick factory, squared.<br><i>Now The Black can't kill demons or the dark magic tablets.</i>"
+	-costs 9.99999999e75 money, 9.99999999e64 bricks
+	-multiplies efficiency of brickFactory by 0.055% per demon
+	-multiplies efficiency of demon by 0.055% per brickFactory
+	-multiplies efficiency of brickFactory by 0.055% per demon
+	-multiplies efficiency of demon by 0.055% per brickFactory
+	-unlocks at 1500 demon, 1500 brickFactory
+	-named True Indestructibility
+	-picture : https://i.imgur.com/XJjuJsO.png
 
 	*buildingTrophy1
 	-"Punchers do <b>0.5%</b> more damage per puncher.<br>Hand punches do <b>0.04%</b> more damage per puncher.<br><i>We don't know who started the "puncher trophy is people" rumor, but it's not true.</i><br> <br>Clubber trophy: <b>15</b> capsules"
