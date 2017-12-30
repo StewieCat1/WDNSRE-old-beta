@@ -6540,14 +6540,21 @@ Upgrades :
 	-named The Godozer
 	-picture : http://i.imgur.com/6kU1Pqd.png
 	*bulldozerUpgrade15
-	-"Bulldozers do <b>eight times</b> as much damage.<br>Bulldozers do <b>8%</b> more damage per 50 bulldozers.<br><i>These blades,
- kind of like the explosive blades, aren't just black holes attached to the blades.</i>"
+	-"Bulldozers do <b>eight times</b> as much damage.<br>Bulldozers do <b>8%</b> more damage per 50 bulldozers.<br><i>These blades, kind of like the explosive blades, aren't just black holes attached to the blades.</i>"
 	-costs 4.8e60 money
 	-unlocks at 1250 bulldozer
 	-multiplies efficiency of bulldozer by 800%
 	-multiplies efficiency of bulldozer by 0.16% per bulldozer
 	-named Singularity Blades
 	-picture : https://i.imgur.com/FJOKtX1.png
+	*bulldozerUpgrade16
+	-"Bulldozers do <b>eleven times</b> as much damage.<br>Bulldozers do <b>11%</b> more damage per 50 bulldozers.<br><i>Plows a black hole right through the wall.</i>"
+	-costs 1.2e71 money
+	-unlocks at 1500 bulldozer
+	-multiplies efficiency of bulldozer by 1100%
+	-multiplies efficiency of bulldozer by 0.22% per bulldozer
+	-named Supermassive Blades
+	-picture : https://i.imgur.com/3IeRAXd.png
 
 	*bulldozerUpgradeMagic
 	-"Bulldozers do <b>three times</b> as much damage.<br><i>Magically-enhanced engines that allow the dozers to teleport.</i>"
@@ -6692,6 +6699,14 @@ Upgrades :
 	-multiplies efficiency of airstrike by 0.16% per airstrike
 	-named Quark Anvils
 	-picture : https://i.imgur.com/BYhlBow.png
+	*airstrikeUpgrade16
+	-"Airstrikes do <b>eleven times</b> as much damage.<br>Airstrikes do <b>11%</b> more damage per 50 airstrike callers.<br><i>Like a nuclear bomb, but instead of being powered by nuclear fission, it is powered by two supermassive black holes colliding.</i>"
+	-costs 4e72 money
+	-unlocks at 1500 airstrike
+	-multiplies efficiency of airstrike by 1100%
+	-multiplies efficiency of airstrike by 0.22% per airstrike
+	-named Supermassive Black Hole Bombs
+	-picture : https://i.imgur.com/eFFUty1.png
 
 	*airstrikeUpgradeMagic
 	-"Airstrikes do <b>three times</b> as much damage.<br><i>How useful!</i>"
@@ -8877,6 +8892,29 @@ Upgrades :
 	-multiplies efficiency of lastBuilding by 0.000000006% per prestige
 	-named Black Hole-Tier Trophy
 	-picture : https://i.imgur.com/E7CFaZS.png
+	 *trophySupermassiveBlackHole
+	-"Everything is <b>4%</b> more efficient <b>per 1,000,000,000 future knowledge capsules.</b><br><i>Heavy as a million suns.</i><br> <br>Next trophy: <b>200,000,000,000</b> capsules"
+	-costs 7.777777777777777e50 money, 7.777777777777777e39 bricks, 7.777777777777777e37 fourthWallMatter
+	-unlocks at 100000000000 prestige, 1 timesReallyActuallyWon
+	-multiplies efficiency of brickFactory by 0.000000004% per prestige
+	-multiplies efficiency of makeBricks by 0.000000004% per prestige
+	-multiplies efficiency of makeBricks2 by 0.000000004% per prestige
+	-multiplies efficiency of hitWall by 0.000000004% per prestige
+	-multiplies efficiency of puncher by 0.000000004% per prestige
+	-multiplies efficiency of clubber by 0.000000004% per prestige
+	-multiplies efficiency of swordsman by 0.000000004% per prestige
+	-multiplies efficiency of gunner by 0.000000004% per prestige
+	-multiplies efficiency of grenade by 0.000000004% per prestige
+	-multiplies efficiency of wreckingBall by 0.000000004% per prestige
+	-multiplies efficiency of bulldozer by 0.000000004% per prestige
+	-multiplies efficiency of airstrike by 0.000000004% per prestige
+	-multiplies efficiency of necromancer by 0.000000004% per prestige
+	-multiplies efficiency of giant by 0.000000004% per prestige
+	-multiplies efficiency of demon by 0.000000004% per prestige
+	-multiplies efficiency of compromiser by 0.000000004% per prestige
+	-multiplies efficiency of lastBuilding by 0.000000004% per prestige
+	-named Supermassive Black Hole-Tier Trophy
+	-picture : https://i.imgur.com/xdtLaDs.png
 
 Achievements :
 	*won
