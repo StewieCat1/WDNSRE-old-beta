@@ -5848,6 +5848,16 @@ Upgrades :
 	-unlocks at 1000 clubber, 1000 swordsman
 	-named Luriswordclubs
 	-picture : http://i.imgur.com/o8Ty0OZ.png
+	*clubAndSwordUpgrade9
+	-"Clubbers do <b>0.055%</b> more damage per swordsman squared.<br>Swordsmen do <b>0.055%</b> more damage per clubber, squared.<br><i></i>"
+	-costs 1.511e65 money
+	-multiplies efficiency of clubber by 0.055% per swordsman
+	-multiplies efficiency of clubber by 0.055% per swordsman
+	-multiplies efficiency of swordsman by 0.055% per clubber
+	-multiplies efficiency of swordsman by 0.055% per clubber
+	-unlocks at 1500 clubber, 1500 swordsman
+	-named Accretion Disks
+	-picture : https://i.imgur.com/19qcCWR.png
 
 	*gunnerUpgrade1
 	-"Gunshooters do <b>50%</b> more damage.<br><i>You wouldn't think you'd need these when your target is a brick wall, but the guys you hired are really bad at their job.</i>"
@@ -6220,6 +6230,16 @@ Upgrades :
 	-unlocks at 1000 gunner, 1000 grenade
 	-named The Projectiles of God
 	-picture : http://i.imgur.com/abx8JUl.png
+	*gunAndGrenadeUpgrade9
+	-"Gunshooters do <b>0.055%</b> more damage per grenademan, squared.<br>Grenademen do <b>0.055%</b> more damage per Gunshooter, squared.<br><i></i>"
+	-costs 4.16e67 money
+	-multiplies efficiency of gunner by 0.055% per grenade
+	-multiplies efficiency of grenade by 0.055% per gunner
+	-multiplies efficiency of gunner by 0.055% per grenade
+	-multiplies efficiency of grenade by 0.055% per gunner
+	-unlocks at 1500 gunner, 1500 grenade
+	-named Gun That Shoots Micro Black Hole Grenade Shrapnel Grenades
+	-picture : https://i.imgur.com/mlmv4aX.png
 
 	*wreckingBallUpgrade1
 	-"Wrecking balls do <b>50%</b> more damage.<br><i>If you know what I mean.(I don't)</i>"
@@ -6439,6 +6459,16 @@ Upgrades :
 	-unlocks at 1100 puncher, 1000 wreckingBall
 	-named Holy Wrecking Fists
 	-picture : http://i.imgur.com/ExOc4Z6.png
+	*puncherAndWreckingBallUpgrade9
+	-"Punchers do <b>0.055%</b> more damage per wrecking ball, squared.<br>Wrecking balls do <b>0.055%</b> more damage per puncher, squared.<br><i></i>"
+	-costs 1.4e69 money
+	-multiplies efficiency of puncher by 0.055% per wreckingBall
+	-multiplies efficiency of wreckingBall by 0.055% per puncher
+	-multiplies efficiency of puncher by 0.055% per wreckingBall
+	-multiplies efficiency of wreckingBall by 0.055% per puncher
+	-unlocks at 1600 puncher, 1500 wreckingBall
+	-named Black Hole Wrecking Ball Orbiters
+	-picture : https://i.imgur.com/BP36H2E.png
 
 	*bulldozerUpgrade1
 	-"Bulldozers do <b>50%</b> more damage.<br><i>Probably made of titanium.</i>"
@@ -6811,6 +6841,16 @@ Upgrades :
 	-unlocks at 1000 bulldozer, 1000 airstrike
 	-named Unlimited Fuel
 	-picture : http://i.imgur.com/S2Im5Eq.png
+	*bulldozerAndAirstrikeUpgrade9
+	-"Bulldozers do <b>0.055%</b> more damage for each airstrike caller, squared.<br>Airstrike callers do <b>0.055%</b> more damage for each bulldozer, squared.<br><i></i>"
+	-costs 6.4e71 money
+	-multiplies efficiency of bulldozer by 0.055% per airstrike
+	-multiplies efficiency of airstrike by 0.055% per bulldozer
+	-multiplies efficiency of bulldozer by 0.055% per airstrike
+	-multiplies efficiency of airstrike by 0.055% per bulldozer
+	-unlocks at 1500 bulldozer, 1500 airstrike
+	-named Supermassive Bulldozer Drop
+	-picture : https://i.imgur.com/MoHdVKh.png
 
 	*necromancerUpgrade1
 	-"Necromancers do <b>50%</b> more damage.<br><i>Gives them more of an incentive.</i>"
