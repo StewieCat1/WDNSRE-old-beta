@@ -4467,7 +4467,7 @@ Upgrades :
 	-multiplies efficiency of compromiser by 350%
 	-multiplies efficiency of lastBuilding by 350%
 	-named Immunity to Everything
-	-picture : https://i.imgur.com/UzKjpIJ.png
+	-picture : https://i.imgur.com/B7WBORf.png
 	*productionMultiplierUpgrade14
 	-"Everything is <b>four times</b> as efficient.<br><i>Awww!</i>"
 	-costs 2.259436291848e55 money
@@ -7332,7 +7332,7 @@ Upgrades :
 	-multiplies efficiency of demon by 520%
 	-multiplies efficiency of demon by 0.104% per demon
 	-named Earth Hellification
-	-picture : http://i.imgur.com/Q6TC1dA.png
+	-picture : https://i.imgur.com/PBrjY8b.png
 	*demonUpgrade15
 	-"Demons do <b>eight times</b> as much damage.<br>Demons do <b>8%</b> more damage per 50 demons.<br><i>The demons are tired of black holes sinking towards the center of the earth and eating everything in hell, so they requested a reality barrier around hell to block black holes.</i>"
 	-costs 2.666666e55 bricks
@@ -7340,7 +7340,7 @@ Upgrades :
 	-multiplies efficiency of demon by 800%
 	-multiplies efficiency of demon by 0.16% per demon
 	-named Anti-Black Hole Barriers
-	-picture : https://i.imgur.com/PBrjY8b.png
+	-picture : https://i.imgur.com/NzU1msT.png
 	*demonUpgrade16
 	-"Demons do <b>eleven times</b> as much damage.<br>Demons do <b>11%</b> more damage per 50 demons.<br><i>Now they want to remain inside the absence of light of a black hole without getting sucked into the singularity.</i>"
 	-costs 6.666666e65 bricks
@@ -7665,7 +7665,7 @@ Upgrades :
 	-multiplies efficiency of lastBuilding by 800%
 	-multiplies efficiency of lastBuilding by 0.16% per lastBuilding
 	-named The Black with Singularities
-	-picture : https://i.imgur.com/CeWEpPK.png
+	-picture : https://i.imgur.com/VIEqfkN.png
 	*lastBuildingUpgrade16
 	-"Black obliterators do <b>eleven times</b> as much damage.<br>Black obliterators do <b>11%</b> more damage per 50 Black obliterators.<br><i></i>"
 	-costs 5.2e82 money, 5.2e67 fourthwallmatter
