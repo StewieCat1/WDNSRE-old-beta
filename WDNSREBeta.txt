@@ -6959,6 +6959,14 @@ Upgrades :
 	-multiplies efficiency of necromancer by 0.16% per necromancer
 	-named Black Hole-Summoning Magic
 	-picture : https://i.imgur.com/0u0koo2.png
+	*necromancerUpgrade16
+	-"Necromancers do <b>eleven times</b> as much damage.<br>Necromancers do <b>11%</b> more damage per 50 necromancers.<br><i></i>"
+	-costs 6.666666e73 money, 6.666666e62 bricks
+	-unlocks at 1500 necromancer
+	-multiplies efficiency of necromancer by 1100%
+	-multiplies efficiency of necromancer by 0.22% per necromancer
+	-named Supermassive Black Hole-Summoning Magic
+	-picture : https://i.imgur.com/IYRYzm8.png
 
 	*necromancerUpgradeHell
 	-"Necromancers do <b>three times</b> as much damage.<br><i>Demon healing magic is so strong it can bring them back from the dead. It's part of the reason they're such assholes, because they know they can never really be killed.</i>"
@@ -7104,6 +7112,14 @@ Upgrades :
 	-multiplies efficiency of giant by 0.16% per giant
 	-named Giant Black Hole Gloves
 	-picture : https://i.imgur.com/9rzxZ9u.png
+	*giantUpgrade16
+	-"Titans do <b>eleven times</b> as much damage.<br>Titans do <b>11%</b> more damage per 50 titans.<i></i>"
+	-costs 8.8888888e74 money
+	-unlocks at 1500 giant
+	-multiplies efficiency of giant by 1100%
+	-multiplies efficiency of giant by 0.22% per giant
+	-named Supermassive Black Hole Titans
+	-picture : https://i.imgur.com/ToZEBYb.png
 
 	*giantUpgradeHell
 	-"Titans do <b>three times</b> as much damage.<br><i>Of course they're not made out of fire, they're just evilium forged in hellfire.</i>"
@@ -7207,6 +7223,16 @@ Upgrades :
 	-unlocks at 1000 necromancer, 1000 giant
 	-named All the Magical Artifacts of Hyzem and Reaefsek
 	-picture : http://i.imgur.com/zoqvFHf.png
+	*necromancerAndTitanUpgrade9
+	-"Necromancers do <b>0.055%</b> more damage per titan, squared.<br>Titans do <b>0.055%</b> more damage per necromancer, squared.<br><i></i>"
+	-costs 8.7777777e73 money, 8.777777e61 bricks
+	-multiplies efficiency of necromancer by 0.055% per giant
+	-multiplies efficiency of giant by 0.055% per necromancer
+	-multiplies efficiency of necromancer by 0.055% per giant
+	-multiplies efficiency of giant by 0.055% per necromancer
+	-unlocks at 1500 necromancer, 1500 giant
+	-named Singularity Bond
+	-picture : https://i.imgur.com/WGwwDmO.png
 
 	*demonUpgrade1
 	-"Demons do <b>50%</b> more damage.<br><i>The only things we can do to make demons do more damage involve making them want to.</i>"
@@ -7315,6 +7341,14 @@ Upgrades :
 	-multiplies efficiency of demon by 0.16% per demon
 	-named Anti-Black Hole Barriers
 	-picture : https://i.imgur.com/PBrjY8b.png
+	*demonUpgrade16
+	-"Demons do <b>eleven times</b> as much damage.<br>Demons do <b>11%</b> more damage per 50 demons.<br><i>Now they want to remain inside the absence of light of a black hole without getting sucked into the singularity.</i>"
+	-costs 6.666666e65 bricks
+	-unlocks at 1500 demon
+	-multiplies efficiency of demon by 1100%
+	-multiplies efficiency of demon by 0.22% per demon
+	-named Black Hole-Escaping Magic
+	-picture : https://i.imgur.com/51uzFiH.png
 	
 	*demonMagicUpgrade
 	-"Demons do <b>three times</b> as much damage.<br><i>They told us they'd use these strictly for trolling.<br>EDIT: WHY THE HELL DID WE GIVE THEM THESE</i>"
@@ -7473,6 +7507,16 @@ Upgrades :
 	-multiplies efficiency of makeBricks2 by 0.2% per compromiser
 	-named Density Sliders
 	-picture : https://i.imgur.com/CeWEpPK.png
+	*compromiserUpgrade16
+	-"Reality compromisers are <b>eleven times</b> as efficient.<br>Manual 4th wall brick creation produces <b>thirteen times</b> as many 4th wall bricks.<br>Reality compromisers are <b>11%</b> more efficient per 50 reality compromisers.<br>Manual 4th wall brick creation prouces <b>13%</b> more 4th wall bricks per 50 reality compromisers.<i>Eats through reality fabric too!</i>"
+	-costs 8.00808088e76 money, 8e62 fourthWallMatter
+	-unlocks at 1500 compromiser
+	-multiplies efficiency of compromiser by 1100%
+	-multiplies efficiency of compromiser by 0.22% per compromiser
+	-multiplies efficiency of makeBricks2 by 1300%
+	-multiplies efficiency of makeBricks2 by 0.26% per compromiser
+	-named Reality Black Holes
+	-picture : https://i.imgur.com/vkedRRd.png
 
 	*compromiserMagicUpgrade
 	-"Reality compromisers are <b>three times</b> as efficient.<br>Manual 4th wall brick creation produces <b>four times</b> as many 4th wall bricks.<br><i>Magically breaking through reality is a lot easier.</i>"
