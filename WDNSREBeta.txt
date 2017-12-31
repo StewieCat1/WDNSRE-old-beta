@@ -9016,7 +9016,7 @@ Upgrades :
 	-picture : https://i.imgur.com/E7CFaZS.png
 	 *trophySupermassiveBlackHole
 	-"Everything is <b>4%</b> more efficient <b>per 1,000,000,000 future knowledge capsules.</b><br><i>Heavy as a million suns.</i><br> <br>Next trophy: <b>200,000,000,000</b> capsules"
-	-costs 7.777777777777777e50 money, 7.777777777777777e39 bricks, 7.777777777777777e37 fourthWallMatter
+	-costs 7.777777777777777e53 money, 7.777777777777777e42 bricks, 7.777777777777777e40 fourthWallMatter
 	-unlocks at 100000000000 prestige, 1 timesReallyActuallyWon
 	-multiplies efficiency of brickFactory by 0.000000004% per prestige
 	-multiplies efficiency of makeBricks by 0.000000004% per prestige
@@ -9037,6 +9037,52 @@ Upgrades :
 	-multiplies efficiency of lastBuilding by 0.000000004% per prestige
 	-named Supermassive Black Hole-Tier Trophy
 	-picture : https://i.imgur.com/xdtLaDs.png
+	*trophySpaceTime
+	-"Everything is <b>2.5%</b> more efficient <b>per 1,000,000,000 future knowledge capsules.</b><br><i></i><br> <br>Next trophy: <b>500,000,000,000</b> capsules"
+	-costs 7.777777777777777e55 money, 7.777777777777777e44 bricks, 7.777777777777777e42 fourthWallMatter
+	-unlocks at 200000000000 prestige, 1 timesReallyActuallyWon
+	-multiplies efficiency of brickFactory by 0.0000000025% per prestige
+	-multiplies efficiency of makeBricks by 0.0000000025% per prestige
+	-multiplies efficiency of makeBricks2 by 0.0000000025% per prestige
+	-multiplies efficiency of hitWall by 0.0000000025% per prestige
+	-multiplies efficiency of puncher by 0.0000000025% per prestige
+	-multiplies efficiency of clubber by 0.0000000025% per prestige
+	-multiplies efficiency of swordsman by 0.0000000025% per prestige
+	-multiplies efficiency of gunner by 0.0000000025% per prestige
+	-multiplies efficiency of grenade by 0.0000000025% per prestige
+	-multiplies efficiency of wreckingBall by 0.0000000025% per prestige
+	-multiplies efficiency of bulldozer by 0.0000000025% per prestige
+	-multiplies efficiency of airstrike by 0.0000000025% per prestige
+	-multiplies efficiency of necromancer by 0.0000000025% per prestige
+	-multiplies efficiency of giant by 0.0000000025% per prestige
+	-multiplies efficiency of demon by 0.0000000025% per prestige
+	-multiplies efficiency of compromiser by 0.0000000025% per prestige
+	-multiplies efficiency of lastBuilding by 0.0000000025% per prestige
+	-named Spacetime-Tier Trophy
+	-picture : https://i.imgur.com/ZNiF34a.png
+	*trophyEnd
+	-"Everything is <b>1.5%</b> more efficient <b>per 1,000,000,000 future knowledge capsules.</b><br><i></i><br> <br>Next trophy: <b>1,000,000,000,000</b> capsules"
+	-costs 7.777777777777777e58 money, 7.777777777777777e47 bricks, 7.777777777777777e45 fourthWallMatter
+	-unlocks at 500000000000 prestige, 1 timesReallyActuallyWon
+	-multiplies efficiency of brickFactory by 0.0000000015% per prestige
+	-multiplies efficiency of makeBricks by 0.0000000015% per prestige
+	-multiplies efficiency of makeBricks2 by 0.0000000015% per prestige
+	-multiplies efficiency of hitWall by 0.0000000015% per prestige
+	-multiplies efficiency of puncher by 0.0000000015% per prestige
+	-multiplies efficiency of clubber by 0.0000000015% per prestige
+	-multiplies efficiency of swordsman by 0.0000000015% per prestige
+	-multiplies efficiency of gunner by 0.0000000015% per prestige
+	-multiplies efficiency of grenade by 0.0000000015% per prestige
+	-multiplies efficiency of wreckingBall by 0.0000000015% per prestige
+	-multiplies efficiency of bulldozer by 0.0000000015% per prestige
+	-multiplies efficiency of airstrike by 0.0000000015% per prestige
+	-multiplies efficiency of necromancer by 0.0000000015% per prestige
+	-multiplies efficiency of giant by 0.0000000015% per prestige
+	-multiplies efficiency of demon by 0.0000000015% per prestige
+	-multiplies efficiency of compromiser by 0.0000000015% per prestige
+	-multiplies efficiency of lastBuilding by 0.0000000015% per prestige
+	-named The End-Tier Trophy
+	-picture : https://i.imgur.com/A28aJhq.png
 
 Achievements :
 	*won
