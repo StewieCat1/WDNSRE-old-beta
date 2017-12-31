@@ -5240,30 +5240,27 @@ Upgrades :
 	-named The Finality Trees
 	-picture : http://i.imgur.com/uCnJqSI.png
 	*handUpgrade19
-	-"Hand punches do <b>three times</b> as much damage. Hand punches do <b>0.052%</b> more damage per puncher, squared.<br><i>"Did he seriously put himself in as the last tier? Oh my god. Oh my fucking god. </i>Disgusting.<i>" ~Agent Johnson</i>"
+	-"Hand punches do <b>three times</b> as much damage. Hand punches do <b>0.052%</b> more damage per puncher.<br><i>"Did he seriously put himself in as the last tier? Oh my god. Oh my fucking god. </i>Disgusting.<i>" ~Agent Johnson</i>"
 	-costs 1.11111e40 money
 	-unlocks at 1e39 handDamage
 	-multiplies efficiency of hitWall by 300%
 	-multiplies efficiency of hitWall by 0.052% per puncher
-	-multiplies efficiency of hitWall by 0.052% per puncher
 	-named The Hand of God
 	-picture : http://i.imgur.com/0WGwFSJ.png
 	*handUpgrade20
-	-"Hand punches do <b>five times</b> as much damage. Hand punches do <b>0.08%</b> more damage per puncher, squared.<br><i>Now your fists can consume the wall. Thankfully, your fists won't consume your body because you're invunerable.</i>"
+	-"Hand punches do <b>four times</b> as much damage. Hand punches do <b>0.08%</b> more damage per puncher.<br><i>Now your fists can consume the wall. Thankfully, your fists won't consume your body because you're invunerable.</i>"
 	-costs 1.11111e46 money
 	-unlocks at 1e45 handDamage
-	-multiplies efficiency of hitWall by 500%
-	-multiplies efficiency of hitWall by 0.08% per puncher
+	-multiplies efficiency of hitWall by 400%
 	-multiplies efficiency of hitWall by 0.08% per puncher
 	-named Black Hole Fists
 	-picture : https://i.imgur.com/JomzS7e.png
 	*handUpgrade21
-	-"Hand punches do <b>seven times</b> as much damage. Hand punches do <b>0.1%</b> more damage per puncher, squared.<br><i>Like black hole fists, but bigger and more destructive.</i>"
+	-"Hand punches do <b>five times</b> as much damage. Hand punches do <b>0.09%</b> more damage per puncher.<br><i>Like black hole fists, but bigger and more destructive.</i>"
 	-costs 1.11111e52 money
 	-unlocks at 1e51 handDamage
-	-multiplies efficiency of hitWall by 700%
-	-multiplies efficiency of hitWall by 0.1% per puncher
-	-multiplies efficiency of hitWall by 0.1% per puncher
+	-multiplies efficiency of hitWall by 500%
+	-multiplies efficiency of hitWall by 0.09% per puncher
 	-named Supermassive Black Hole Fists
 	-picture : https://i.imgur.com/T9TSgZP.png
 	*handUpgrade7
@@ -5302,12 +5299,10 @@ Upgrades :
 	-named Proposal #731
 	-picture : http://i.imgur.com/QJ6t0uF.png
 	*handUpgrade22
-	-"Hand punches do <b>eight times</b> as much damage. Hand punches do <b>0.128%</b> more damage per puncher, squared.<br><i>Now you can lift the wall up and smash it to the ground instead of just punching it.</i>"
+	-"Hand punches do <b>six times</b> as much damage. Hand punches do <b>0.1024%</b> more damage per puncher.<br><i>Now you can lift the wall up and smash it to the ground instead of just punching it.</i>"
 	-costs 1.11111e58 money
 	-unlocks at 1e57 handDamage
-	-multiplies efficiency of hitWall by 800%
-	-multiplies efficiency of hitWall by 0.128% per puncher
-	-multiplies efficiency of hitWall by 0.128% per puncher
+	-multiplies efficiency of hitWall by 600%
 	-named Wall Lifting
 	-picture : https://i.imgur.com/Wky8Pfo.png
 
