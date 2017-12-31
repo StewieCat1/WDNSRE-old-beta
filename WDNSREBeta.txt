@@ -5650,7 +5650,7 @@ Upgrades :
 	*clubberUpgradeGradient
 	-"Clubbers do <b>12.8 times</b> as much damage.<br>Clubbers do <b>12.8%</b> more damage per 50 clubbers.<br><i></i>"
 	-costs 3e75 money, 3e64 bricks, 3e61 fourthwallmatter
-	-unlocks at 1750 puncher
+	-unlocks at 1750 clubber
 	-multiplies efficiency of clubber by 1280%
 	-multiplies efficiency of clubber by 0.256% per clubber
 	-named Neverending Explosion Clubs
