@@ -5301,6 +5301,15 @@ Upgrades :
 	-multiplies efficiency of hitWall by 300%
 	-named Proposal #731
 	-picture : http://i.imgur.com/QJ6t0uF.png
+	*handUpgrade22
+	-"Hand punches do <b>eight times</b> as much damage. Hand punches do <b>0.128%</b> more damage per puncher, squared.<br><i>Now you can lift the wall up and smash it to the ground instead of just punching it.</i>"
+	-costs 1.11111e58 money
+	-unlocks at 1e57 handDamage
+	-multiplies efficiency of hitWall by 800%
+	-multiplies efficiency of hitWall by 0.128% per puncher
+	-multiplies efficiency of hitWall by 0.128% per puncher
+	-named Wall Lifting
+	-picture : https://i.imgur.com/Wky8Pfo.png
 
 	*puncherUpgrade1
 	-"Punchers and hand punches do <b>50%</b> more damage.<br><i>A little padding.</i>"
@@ -5476,6 +5485,16 @@ Upgrades :
 	-multiplies efficiency of hitWall by 150%
 	-named Chess Knuckles
 	-picture : http://i.imgur.com/wy0NkCV.png
+	*puncherUpgradeGradient
+	-"Punchers do <b>12.8 times</b> as much damage.<br>Hand punches do <b>128%</b> more damage.<br>Punchers and hand punches do <b>12.8%</b> more damage per 50 punchers.<br><i></i>"
+	-costs 4e74 money, 4e63 bricks, 4e60 fourthwallmatter
+	-unlocks at 1750 puncher
+	-multiplies efficiency of puncher by 1280%
+	-multiplies efficiency of hitWall by 228%
+	-multiplies efficiency of puncher by 0.256% per puncher
+	-multiplies efficiency of hitWall by 0.256% per puncher
+	-named Puncher Copies
+	-picture : https://i.imgur.com/VBpJufQ.png
 
 
 	*clubberUpgrade1
@@ -5587,7 +5606,7 @@ Upgrades :
 	-picture : https://i.imgur.com/uXQlg3l.png
 	*clubberUpgrade16
 	-"Clubbers do <b>eleven times</b> as much damage.<br>Clubbers do <b>11%</b> more damage per 50 clubbers.<i>Splits into many Hypernova clubs that each produce an explosion and black hole.</i>"
-	-costs 1.2e65 money
+	-costs 1.5e65 money
 	-unlocks at 1500 clubber
 	-multiplies efficiency of clubber by 1100%
 	-multiplies efficiency of clubber by 0.22% per clubber
@@ -5628,6 +5647,14 @@ Upgrades :
 	-multiplies efficiency of clubber by 640%
 	-named Perfect Clubs
 	-picture : http://i.imgur.com/RIWt6UD.png
+	*clubberUpgradeGradient
+	-"Clubbers do <b>12.8 times</b> as much damage.<br>Clubbers do <b>12.8%</b> more damage per 50 clubbers.<br><i></i>"
+	-costs 3e75 money, 3e64 bricks, 3e61 fourthwallmatter
+	-unlocks at 1750 puncher
+	-multiplies efficiency of clubber by 1280%
+	-multiplies efficiency of clubber by 0.256% per clubber
+	-named Neverending Explosion Clubs
+	-picture : https://i.imgur.com/LEQM89M.png
 
 	*swordsmanUpgrade1
 	-"Swordsmen do <b>50%</b> more damage.<br><i>Kind of useless in the long term of wall-slicing.</i>"
