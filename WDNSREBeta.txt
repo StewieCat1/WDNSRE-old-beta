@@ -5802,6 +5802,14 @@ Upgrades :
 	-multiplies efficiency of swordsman by 640%
 	-named #7's Sword
 	-picture : http://i.imgur.com/ZiK08m9.png
+	*swordsmanUpgradeGradient
+	-"Swordsmen do <b>12.8 times</b> as much damage.<br>Swordsmen do <b>12.8%</b> more damage per 50 swordsmen.<i>When they hit the wall, [Static].</i>
+ 	-costs 2.2e76 money, 2.2e65 bricks, 2.2e62 fourthwallmatter
+	-unlocks at 1750 swordsman
+	-multiplies efficiency of swordsman by 1280%
+	-multiplies efficiency of swordsman by 0.256% per swordsman
+ 	-named Glitchy Swords
+	-picture : https://i.imgur.com/8F0elY1.png
 
 
 	*clubAndSwordUpgrade
